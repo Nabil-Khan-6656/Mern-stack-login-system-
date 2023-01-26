@@ -1,0 +1,23 @@
+.registerPage{
+    display: flex;
+    gap: 10rem;
+    margin-top: 50px;
+    height: 70vh;
+    align-items: center;
+    justify-content: center;
+}
+.registerPage form{
+   width: 30vw;
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.right{
+    height: 100%;
+}
+.right img {
+    height: 60vh;
+}
